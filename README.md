@@ -18,8 +18,8 @@
 5. Done fix -> On test.
 6. On test -> On fix, Done.
 7. Done -> Closed, Open.
+![image](https://github.com/user-attachments/assets/9f6b9d75-384f-4efb-978d-dece62351c9e)
 
-Скриншот
 
 Остальные задачи должны проходить по упрощённому workflow:
 
@@ -28,8 +28,8 @@
 3. Done develop -> On test.
 4. On test -> On develop, Done.
 5. Done -> Closed, Open.
+![image](https://github.com/user-attachments/assets/d2921929-99e1-4916-9d39-db227f8cefba)
 
-Скриншот2
 
 **Что нужно сделать**
 
@@ -45,9 +45,9 @@
 
 Ссыкли на файлы с workflow:
 
-[Ссылка на bug.xml](адрес)
+[Ссылка на bug.xml](https://github.com/AngryCFO/SHCICD_Jira/blob/3744a3e6b7f40939520b3b1e3c23d76d94bb7186/bug.xml)
 
-[Ссылка на other.xml](адрес)
+[Ссылка на other.xml](https://github.com/AngryCFO/SHCICD_Jira/blob/3744a3e6b7f40939520b3b1e3c23d76d94bb7186/other.xml)
 
 ---
 
